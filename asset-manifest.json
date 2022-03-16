@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/git-pages-test-feb-12/static/css/main.ceb961ed.css",
+    "main.js": "/git-pages-test-feb-12/static/js/main.cfaf8f10.js",
+    "index.html": "/git-pages-test-feb-12/index.html",
+    "main.ceb961ed.css.map": "/git-pages-test-feb-12/static/css/main.ceb961ed.css.map",
+    "main.cfaf8f10.js.map": "/git-pages-test-feb-12/static/js/main.cfaf8f10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceb961ed.css",
+    "static/js/main.cfaf8f10.js"
+  ]
+}
